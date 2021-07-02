@@ -17,4 +17,4 @@
   
  
 # Apps/Projects
-  - [CLI Messenger](github.com/Arnav-Jhajharia/YTSProject) 
+  - [CLI Messenger](https://github.com/Arnav-Jhajharia/YTSProject) 
