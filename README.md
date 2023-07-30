@@ -16,9 +16,9 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 
 <h2>🏅  Achivements</h2>
 
-- 1st Place at Smart Bengal Hackathon ( 500 participating teams in a National Level Hackathon )  
+- 1st Place at Smart Bengal Hackathon ( 500 participating teams from all across India )  
 - Participating in AIIJC 2023
-- Participating at Uber Global 2023
+- Participating at Uber Global Hackathon 2023
 - 1st Place in over 10 district-level science and coding competitions.
  
 <br>
@@ -30,6 +30,7 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%23000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
@@ -44,13 +45,59 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 ![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 <br />
 <br />
 <br />
 
 
 
-<h2>📃  Repositories </h2>
+<h2>📃  Repositories and Projects</h2>
+
+### [Evelate](https://github.com/Arnav-Jhajharia/funfact1/)
+
+<b>CS Passion Project which aims to revolutionize the way we learn</b>
+
+- #### [Front-end](https://github.com/Arnav-Jhajharia/funfact1) 
+
+- #### [Back-end](https://github.com/Arnav-Jhajharia/iknownothing/) 
+   
+<br />
+
+### [Xade Finance](https://github.com/xadefinance/)
+
+<b>Founding engineer at a venture funded startup</b>
+
+- #### [APIs](https://github.com/XadeFinance/apis)
+- #### [WebApp](https://github.com/XadeFinance/webapp)
+- #### [Landing Page](https://github.com/XadeFinance/landing)
+- #### [Derivex](https://github.com/XadeFinance/derivex)
+- #### [SabeX](https://github.com/XadeFinance/sabex)
+
+<br />
+
+### [Algorithms](https://github.com/Arnav-Jhajharia/Algorithms/)
+
+<b>Data Structures & Algorithms Implemented In C++</b>
+- #### [Basics](https://github.com/Ansh3101/Algorithms/tree/main/Basics/)
+- #### [Pattern Writers](https://github.com/Ansh3101/Algorithms/tree/main/Pattern%20Writers)
+
+<br />
+
+### [Smart Bengal Hackathon](https://github.com/Arnav-Jhajharia/sbh_lmb/)
+
+<b>Codebase For the Software Aspect of Smart Bengal Hackathon</b>
+- #### [Mobile App](https://github.com/Arnav-Jhajharia/sbh_lmb)
+- #### [Server](https://github.com/Arnav-Jhajharia/sbh_lmb_backend)
+
+<br />
+
+### [](https://github.com/Ansh3101/Eye.AI/)
+
+<b>The Code Repository For Eye.AI: An Initiative To Detect Diseases Even In The Most Under-developed Regions.</b>
+
+<br />
 
 <h2>📇  Contact Me </h2>
 
