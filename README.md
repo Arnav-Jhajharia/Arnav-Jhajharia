@@ -67,7 +67,7 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 
 ### [Xade Finance](https://github.com/xadefinance/)
 
-<b>Founding engineer at a venture funded startup</b>
+<b>Founding engineer at a venture-funded startup </b>
 
 - #### [APIs](https://github.com/XadeFinance/apis)
 - #### [WebApp](https://github.com/XadeFinance/webapp)
@@ -93,9 +93,26 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 
 <br />
 
-### [](https://github.com/Ansh3101/Eye.AI/)
+### [AI Project - CT Decode](https://github.com/Arnav-Jhajharia/CT-Decode/)
 
-<b>The Code Repository For Eye.AI: An Initiative To Detect Diseases Even In The Most Under-developed Regions.</b>
+<b>One of my first AI endeavors after I finished my course on it</b>
+
+### [Swift Apps](https://github.com/Arnav-Jhajharia/SwiftApps/)
+
+
+
+### [Commune](https://github.com/Arnav-Jhajharia/)
+
+<b>Exclusive Social Media</b>
+- #### [Commune Files](https://github.com/Arnav-Jhajharia/sbh_lmb)
+- #### [Commune Notes](https://github.com/Arnav-Jhajharia/sbh_lmb_backend)
+
+  
+
+### [Messenger](https://github.com/Messenger/)
+
+<b>Cryptographic </b>
+
 
 <br />
 
