@@ -99,19 +99,27 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 
 ### [Swift Apps](https://github.com/Arnav-Jhajharia/SwiftApps/)
 
-
+<br />
 
 ### [Commune](https://github.com/Arnav-Jhajharia/)
 
-<b>Exclusive Social Media</b>
+<b>Exclusive Social Media for students of my school!</b>
 - #### [Commune Files](https://github.com/Arnav-Jhajharia/sbh_lmb)
 - #### [Commune Notes](https://github.com/Arnav-Jhajharia/sbh_lmb_backend)
+- #### [Front-end](https://github.com/Arnav-Jhajharia/Xade)
 
-  
+<br />
 
 ### [Messenger](https://github.com/Messenger/)
 
-<b>Cryptographic </b>
+<b>Cryptographic messenger, which uses prime cryptography techniques ( RSA, Diffie-Hellman, Elliptic Curve, etc. ) to anyone. </b>
+
+
+### [CS50](https://github.com/me50/Arnav-Jhajharia)
+
+<b>All project submissions of CS50W - including a capstone project. </b>
+
+<br />
 
 
 <br />
