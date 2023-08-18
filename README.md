@@ -117,15 +117,15 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 ### [Commune](https://github.com/Arnav-Jhajharia/)
 
 <b>Exclusive Social Media for students of my school!</b>
-- #### [Commune Files](https://github.com/Arnav-Jhajharia/sbh_lmb)
-- #### [Commune Notes](https://github.com/Arnav-Jhajharia/sbh_lmb_backend)
+- #### [Commune Files](https://github.com/Arnav-Jhajharia/CommuneFiles)
+- #### [Commune Notes](https://github.com/Arnav-Jhajharia/Commune-notes)
 - #### [Front-end](https://github.com/Arnav-Jhajharia/Xade)
 
 <br />
 
 ### [Messenger](https://github.com/Arnav-Jhajharia/Messenger/)
 
-<b>Cryptographic messenger, which uses prime cryptography techniques ( RSA, Diffie-Hellman, Elliptic Curve, etc. ) to anyone. </b>
+<b>Cryptographic messenger, which uses prime cryptography techniques (RSA, Diffie-Hellman, Elliptic Curve, etc.) to anyone </b>
 
 
 ### [CS50](https://github.com/me50/Arnav-Jhajharia)
