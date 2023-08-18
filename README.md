@@ -14,14 +14,17 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 
 <br>
 
-<h2>🏅  Achivements</h2>
+<h2>🏅  Acheivements</h2>
 
+- Co-founded a venture-funded company at the age of 16
 - 1st Place at Smart Bengal Hackathon ( 500 participating teams from all across India )  
 - 7th Place in AIIJC 2021 and participating in AIIJC 2023 ( Qualifying round over )
-- Participating at Uber Global Hackathon 2023 ( Qualifying round over )
-- 1st Place in over 10 district-level science and coding competitions.
-- Organized state level and international level hackathons!
- 
+- Participating in the Uber Global Hackathon 2023 ( Qualifying round over )
+- UST D3Code
+- 1st Place in over 10 district-level science and coding competitions
+- Organized state-level and international-level hackathons!
+- Completed 15+ selective certifications and competitions ( including PCEP and Tensorflow )
+  
 <br>
 
 <h2>🔧  Technologies And Tools </h2>
@@ -120,7 +123,7 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 
 <br />
 
-### [Messenger](https://github.com/Messenger/)
+### [Messenger](https://github.com/Arnav-Jhajharia/Messenger/)
 
 <b>Cryptographic messenger, which uses prime cryptography techniques ( RSA, Diffie-Hellman, Elliptic Curve, etc. ) to anyone. </b>
 
