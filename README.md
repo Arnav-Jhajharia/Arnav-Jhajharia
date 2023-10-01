@@ -19,7 +19,6 @@ I use TypeScript and Python for Web Development while I use Solidity and many ot
 - Co-founded a venture-funded company at the age of 16
 - 1st Place at Smart Bengal Hackathon ( 500 participating teams from all across India )  
 - 7th Place in AIIJC 2021 and participating in AIIJC 2023 ( Qualifying round over )
-- Participating in the Uber Global Hackathon 2023 ( Qualifying round over )
 - UST D3Code
 - 1st Place in over 10 district-level science and coding competitions
 - Organized state-level and international-level hackathons!
